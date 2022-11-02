@@ -38,9 +38,10 @@ Feather rechargeable battery when USB is not available
 =
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/battery.jpg)
 
+Connected to wifi. Add remote control by mobile phone.
+=
 Longer time (9 months)
 =
 Slow corrosion: Use a transistor controlled by digital pin of Feather to cut off the voltage to nails every four hours.
 =
-Connected to wifi. Add remote control by mobile phone.
-=
+
