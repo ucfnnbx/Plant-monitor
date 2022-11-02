@@ -34,7 +34,7 @@ Spray every 2 hours
 
 *Improvements:*
 =
-Feather rechargeable battery allows portable
+Feather rechargeable battery when USB is not available
 =
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/battery.jpg)
 
