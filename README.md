@@ -44,5 +44,5 @@ Slow corrosion: Use a transistor controlled by digital pin of Feather to cut off
 =
 Connected to wifi. Add remote control by mobile phone.
 =
-Averaging + Least Linear Square Regression = slope, Send notifications
+Averaging + Least Linear Square Regression => slope => Send notifications
 =
