@@ -32,7 +32,7 @@ Spray every 2 hours
 =
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/code.jpg)
 
-*Future:*
+*Improvements:*
 =
 Feather rechargeable battery allows portable
 =
