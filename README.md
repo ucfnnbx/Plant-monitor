@@ -5,7 +5,7 @@ Mine:
 =
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/moisture1.jpg)
 
-Add 50ml water: Rise to 216 and fall to 114 in 20min. 4 days fall from 100 to 50.
+Add 50ml water: Rise to 216 and fall to 114 in 20min. 4 days fall from 100 to 50. Total dry: 30
 =
 Water around every 5 days
 =
