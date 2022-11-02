@@ -1,7 +1,7 @@
 # Plant-monitor
 Moisture value: Max (water): 260  Min(air): 10
 =
-Some comparison:
+*Some comparison:*
 =
 Similar Temperature and Humidity
 =
@@ -25,10 +25,10 @@ Spray every 2 hours
 =
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/1.jpg)
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/temperature.jpg)
-Difficulties:
+*Difficulties:*
 =
 ![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/code.jpg)
-Future:
+*Future:*
 =
 Feather rechargeable battery allows portable
 =
