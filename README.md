@@ -40,7 +40,7 @@ Feather rechargeable battery when USB is not available
 
 Longer time (9 months)
 =
-Use a transistor controlled by digital pin of Feather to cut off the voltage to nails every four hours.
+Slow corrosion: Use a transistor controlled by digital pin of Feather to cut off the voltage to nails every four hours.
 =
 Connected to wifi. Add remote control by mobile phone.
 =
