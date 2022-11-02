@@ -14,9 +14,6 @@ Water around every 5 days
 =
 Similar Temperature and Humidity
 =
-Total dry: Around 30
-=
-![image](https://github.com/ucfnnbx/Plant-monitor/blob/main/Sophia's%20total%20dry.jpg)
 
 Different type of soil: 260 to 320
 =
